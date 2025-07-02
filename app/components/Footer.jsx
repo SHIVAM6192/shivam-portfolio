@@ -20,7 +20,7 @@ const Footer = () => {
                 </li>
                 <li><a target='_blank' href='https://www.linkedin.com/in/shivam-sagar-002263209/'>LinkedIn</a>
                 </li>
-                <li><a target='_blank' href='https://github.com/SHIVAM6192'>Twitter</a>
+                <li><a target='_blank' href='https://x.com/TheDevFight'>Twitter</a>
                 </li>
               </ul>
            </div>
