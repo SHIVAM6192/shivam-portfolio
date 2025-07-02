@@ -47,7 +47,8 @@ const About = () => {
           transition={{ duration: 0.6, delay: 0.8 }}
         className='flex-1'>
             <p className='mb-10 max-w-2xl font-Ovo'>
-            I am a software developer with a passion for creating innovative solutions.
+            Writing code by day, fixing bugs by night — and sometimes the other way around. I'm a Software Developer who talks to computers more than humans.  
+Currently working as an SD, chasing semicolons and dreams alike.
             </p>
 
           <motion.ul
